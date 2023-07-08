@@ -1,0 +1,105 @@
+.App {
+  text-align: center;
+}
+
+.w-90 {
+  width: 100%;
+  padding-right: 0;
+}
+
+.padding-10 {
+  padding: 2em 6.5em;
+}
+
+.simple-linear {
+  background: linear-gradient(#E04848, #444);
+}
+
+.text-pink {
+  color: #E04848 !important;
+}
+
+.circle-icon {
+  margin: auto !important;
+  border: 1px solid #fff;
+}
+
+.logoEtude {
+  font-size: 1.5em !important;
+}
+
+.logoConception {
+  font-size: 1.6em !important;
+}
+
+.logoDev {
+  font-size: 1.7em !important;
+  margin: 0 0.1em !important;
+}
+
+.myBtn {
+  z-index: 99;
+  right: 20px;
+  width: 52px;
+  height: 52px;
+  bottom: 20px;
+  border: none;
+  outline: none;
+  position: fixed;
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: #323137;
+}
+
+.myBtn:hover {
+  background-color: #0f0f11;
+}
+
+.myBtn img {
+  width: 18px;
+  margin-left: 0.125rem;
+  margin-bottom: 0.25rem;
+}
+
+.text-light {
+  color: #ddd !important;
+}
+
+
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
