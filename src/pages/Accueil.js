@@ -33,6 +33,9 @@ function Navigation() {
                   <a className="nav-link" onClick={closeMenu} href="#technologies"><i className="fas fa-microchip"></i> Technologies</a>
               </li>
               <li className="nav-item">
+                  <a className="nav-link" onClick={closeMenu} href="#experiences"><i className="fas fa-industry"></i> Expériences</a>
+              </li>
+              <li className="nav-item">
                   <a className="nav-link" onClick={closeMenu} href="#realisations"><i className="fas fa-palette"></i> Réalisations</a>
               </li>
               <li className="nav-item">
@@ -58,7 +61,7 @@ function Navigation() {
               <p><span className="text-center"><i className="fas fa-file-code fa-lg logoDev"></i></span> Développement</p>
             </div>
             <div className="my-5">
-              <a className="btn" href="#realisations">Réalisations</a>
+              <a className="btn" href="#technologies">Technologies</a>
             </div>
         </div>
       </section>

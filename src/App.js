@@ -3,6 +3,7 @@ import CookieConsent from "react-cookie-consent";
 import './App.css';
 import Accueil from './pages/Accueil.js';
 import Contact from './pages/Contact.js';
+import Experiences from './pages/Experiences';
 import FooterFirst from './pages/FooterFirst.js';
 import FooterSecond from './pages/FooterSecond.js';
 import Realisations from './pages/Realisations.js';
@@ -45,6 +46,7 @@ function App() {
       </CookieConsent>
       <Accueil></Accueil>
       <Technologies></Technologies>
+      <Experiences></Experiences>
       <Realisations></Realisations>
       <Contact></Contact>
       <FooterFirst></FooterFirst>

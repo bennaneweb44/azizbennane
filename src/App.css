@@ -1,3 +1,7 @@
+body {
+  background-color: #1c262f !important;
+}
+
 .App {
   text-align: center;
 }
@@ -102,4 +106,110 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#experiences {
+  height: max-content !important;
+}
+
+.experiences {
+  padding-top: 6em;
+}
+
+.expLeft, .expRight {
+  width: 130%;
+}
+
+.expLeft {
+  margin-left: -170px !important;
+}
+
+.expRight {
+  margin-left: -170px !important;
+}
+
+.smallScreen {
+  display: inline;
+  font-size: medium;
+}
+
+/**
+  Desktop
+*/
+@media screen and (min-width: 1600px) {
+  
+}
+
+/**
+  Tablet laptop
+*/
+@media screen and (max-width: 1600px) {
+  .expLeft, .expRight {
+    width: 100%;
+  }
+  .expLeft {
+    margin-left: 0 !important;
+  }
+  .expRight {
+    margin-left: 0 !important;
+  }
+}
+
+/**
+  Inter
+*/
+@media screen and (min-width: 1170px) {
+  .smallScreen {
+    display: none !important;
+  }
+}
+
+/**
+  Inter
+*/
+@media (min-width: 1170px) and (max-width: 1599px) {
+  .expLeft {
+    margin-left: 0 !important;
+  }
+  .expRight {
+    margin-left: 0 !important;
+  }
+}
+
+/**
+  Inter
+*/
+@media (min-width: 1025px) and (max-width: 1169px) {
+  .expLeft {
+    margin-left: -12px !important;
+  }
+  .expRight {
+    margin-left: -12px !important;
+  }
+}
+
+/**
+  Tablet landscape
+*/
+@media screen and (max-width: 1024px) {
+  .expLeft {
+    margin-left: -12px !important;
+  }
+  .expRight {
+    margin-left: -12px !important;
+  }
+}
+
+/**
+  Tablet
+*/
+@media screen and (max-width: 768px) {
+  
+}
+
+/**
+  Mobile
+*/
+@media screen and (max-width: 480px) {
+  
 }

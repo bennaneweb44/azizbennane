@@ -1,7 +1,7 @@
-import React from 'react'
 import { saveAs } from "file-saver"
-import MyCV from '../documents/cv_dev_4.pdf'
+import React from 'react'
 import '../App.scss'
+import MyCV from '../documents/my-cv.pdf'
 
 const saveFile = () => {
   saveAs(
