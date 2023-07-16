@@ -1,5 +1,5 @@
-import React from 'react'
-import '../App.scss'
+import React from 'react';
+import '../App.scss';
 
 function FooterSecond() {
   return (    
@@ -8,7 +8,7 @@ function FooterSecond() {
         <div className="container" >
           <div className="my-3 text-center">
               <p className="pt-3 pb-0">
-                <span className="mr-3">Bennane Web © 2021 </span>                
+                <span className="mr-3">Aziz Bennane © 2023 </span>                
                 <a href="https://www.linkedin.com/in/aziz-bennane/" target="_blank" rel="noopener noreferrer">
                   <i className="fab fa-linkedin fa-1x py-2"></i>
                 </a>              

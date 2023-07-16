@@ -58,7 +58,7 @@ function Experiences() {
                         className="vertical-timeline-element--work expLeft"
                         contentStyle={{ background: '#CB4D58', color: '#fff' }}
                         contentArrowStyle={{ borderRight: '7px solid  #CB4D58' }}
-                        date="Jan 2021 - Aujourd'hui"
+                        date="Jan 2018 - Déc 2019"
                         iconStyle={{ background: '#CB4D58', color: '#fff' }}
                     >
                         <h3 className="vertical-timeline-element-title">Preview <span className='smallScreen'>[Jan 2018 - Déc 2019]</span></h3>
@@ -76,7 +76,7 @@ function Experiences() {
                         className="vertical-timeline-element--work expRight"
                         contentStyle={{ background: '#CA4785', color: '#fff' }}
                         contentArrowStyle={{ borderRight: '7px solid  #CA4785' }}
-                        date="Jan 2020 - Sept 2020"
+                        date="Oct 2016 - Déc 2017"
                         iconStyle={{ background: '#CA4785', color: '#fff' }}
                     >
                         <h3 className="vertical-timeline-element-title">Logisneuf <span className='smallScreen'>[Oct 2016 - Déc 2017]</span></h3>

@@ -42,7 +42,7 @@ function App() {
         expires={150}
       >
         Ce site utilise des cookies.{" "}
-        <span style={{ fontSize: "12px" }}>Pour améliorer l'expérience utilisateur, je partage les informations <u>non personnelles</u> avec des médias, réseaux sociaux ou autres sites succeptibles de solliciter <b>bennaneweb.fr</b></span>
+        <span style={{ fontSize: "12px" }}>Pour améliorer l'expérience utilisateur, je partage les informations <u>non personnelles</u> avec des médias, réseaux sociaux ou autres sites succeptibles de solliciter <b>aziz-bennane.fr</b></span>
       </CookieConsent>
       <Accueil></Accueil>
       <Technologies></Technologies>
