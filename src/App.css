@@ -213,3 +213,7 @@ body {
 @media screen and (max-width: 480px) {
   
 }
+
+.form-control-input {
+  color: #555 !important;
+}
