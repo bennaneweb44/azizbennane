@@ -13,7 +13,7 @@ function Realisations() {
                         <h4 className="py-1">Blog</h4>
                         <p className="para-light">Blog pour des développeurs débutants à confirmés.<br />- <u>Stack</u> : Drupal 9, PHP 7.4</p>
                         <div className="my-3">
-                            <a className="btn float-end" target="_blank" rel="noopener noreferrer" href="https://blog.bennaneweb.fr">Visiter</a>
+                            <a className="btn float-end" target="_blank" rel="noopener noreferrer" href="https://blog.aziz-bennane.fr">Visiter</a>
                         </div>
                     </div>                    
                 </div>
@@ -22,7 +22,7 @@ function Realisations() {
                         <h4 className="py-1">My Spend</h4>
                         <p className="para-light">Outil de gestion des dépenses et charges mensuelles.<br />- <u>Stack</u> : Symfony 5.2, Vuejs 2</p>
                         <div className="my-3">
-                            <a className="btn float-end" target="_blank" rel="noopener noreferrer" href="https://myspend.bennaneweb.fr">Visiter</a>
+                            <a className="btn float-end" target="_blank" rel="noopener noreferrer" href="https://myspend.aziz-bennane.fr">Visiter</a>
                         </div>
                     </div>                    
                 </div>
@@ -31,7 +31,7 @@ function Realisations() {
                         <h4 className="py-1">Geolocip</h4>
                         <p className="para-light">Ce site permet de géolocaliser des adresses IP publiques.<br />- <u>Stack</u> : React 17, Leaflet 1.7</p>
                         <div className="my-3">
-                            <a className="btn float-end" target="_blank" rel="noopener noreferrer" href="https://geolocip.bennaneweb.fr">Visiter</a>
+                            <a className="btn float-end" target="_blank" rel="noopener noreferrer" href="https://geolocip.aziz-bennane.fr">Visiter</a>
                         </div>
                     </div>                    
                 </div>

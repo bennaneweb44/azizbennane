@@ -21,11 +21,11 @@ function Experiences() {
                         <h3 className="vertical-timeline-element-title">Nova Technology <span className='smallScreen'>[Jan 2021 - Aujourd'hui]</span></h3>
                         <h5 className="vertical-timeline-element-subtitle mb-2">Développeur d'applications web</h5>
                         <ul>
-                            <li>- Développement de besoins « métier » sous Symfony 4</li>
+                            <li>- Développement de besoins « métier » sous Symfony 4/6</li>
                             <li>- Implémentation de la logique métier sous ApiPlatform</li>
                             <li>- Persistance des données sous PostgreSQL / MongoDB</li>
                             <li>- Gestion des messages applicatifs sous RabbitMQ</li>
-                            <li>- Application de l'agilité avec des sprints de 15j et la « DOD »​</li>
+                            <li>- Application des pricipes de l'agilité « DOD, DOR ... »​</li>
                             <li>- Codage de tests unitaires et fonctionnels sous PHPUnit</li>
                             <li>- Respect du coding standard PSR-2/4 et configuration du Pre-commit​</li>
                             <li>- TMA corrective et évolutive sur BO développé sous React​ 16</li>
@@ -37,10 +37,10 @@ function Experiences() {
 
                     <VerticalTimelineElement
                         className="vertical-timeline-element--work expRight"
-                        contentStyle={{ background: '#CA4785', color: '#fff' }}
-                        contentArrowStyle={{ borderRight: '7px solid  #CA4785' }}
+                        contentStyle={{ background: '#303F75', color: '#fff' }}
+                        contentArrowStyle={{ borderRight: '7px solid  #303F75' }}
                         date="Jan 2020 - Sept 2020"
-                        iconStyle={{ background: '#CA4785', color: '#fff' }}
+                        iconStyle={{ background: '#303F75', color: '#fff' }}
                     >
                         <h3 className="vertical-timeline-element-title">Capgemini <span className='smallScreen'>[Jan 2020 - Sept 2020]</span></h3>
                         <h5 className="vertical-timeline-element-subtitle mb-2">Développeur Drupal 8</h5>
@@ -66,7 +66,7 @@ function Experiences() {
                         <ul>
                             <li>- Développement « from scratch » du BO d'un site web publique de ventre de t-shirts sous Laravel</li>      
                             <li>- Refonte d’une solution PIM via le CMS open source PIMCORE sous Symfony 3/4​</li>
-                            <li>- Implémentation de l'accès aux données objet en utilisant le service REST fourni par le CMS</li>
+                            <li>- Implémentation de l'accès aux données objet en utilisant le service REST fourni par le CMS Pimcore</li>
                             <li>- Développement de modules spécifiques (BO et FO) sous Prestashop​</li>
                             <li>- Responsive design, maquettage et gestion du code source sous GIT</li>
                         </ul>
@@ -74,17 +74,17 @@ function Experiences() {
                           
                     <VerticalTimelineElement
                         className="vertical-timeline-element--work expRight"
-                        contentStyle={{ background: '#CA4785', color: '#fff' }}
-                        contentArrowStyle={{ borderRight: '7px solid  #CA4785' }}
+                        contentStyle={{ background: '#303F75', color: '#fff' }}
+                        contentArrowStyle={{ borderRight: '7px solid  #303F75' }}
                         date="Oct 2016 - Déc 2017"
-                        iconStyle={{ background: '#CA4785', color: '#fff' }}
+                        iconStyle={{ background: '#303F75', color: '#fff' }}
                     >
                         <h3 className="vertical-timeline-element-title">Logisneuf <span className='smallScreen'>[Oct 2016 - Déc 2017]</span></h3>
                         <h5 className="vertical-timeline-element-subtitle mb-2">Développeur Laravel / Vuejs</h5>
                         <ul>
-                            <li>- Développement évolutif et correctif des modules de l’extranet immobilier «Logissimmo» en SAAS​</li>
-                            <li>- Participation à la refonte du site web public de l’entreprise sous Laravel 5.4 / Vue.js 2</li>
-                            <li>- Implémentation d’API REST coté serveur et leur consommation côté client en PHP 7</li>
+                            <li>- Développement évolutif et correctif des modules de l’extranet immobilier « Logissimmo » en SAAS​</li>
+                            <li>- Participation à la refonte du site web public de l’entreprise sous Laravel / Vue.js</li>
+                            <li>- Implémentation d’API REST coté serveur et leur consommation côté client en PHP</li>
                             <li>- Responsive design, tests unitaires et gestion du code source sous Git</li>
                             <li>- Encadrement de 2 collaborateurs débutants pour les initier à créer des pages web statiques responsives via bootstrap 3 et css 3</li>
                         </ul>
