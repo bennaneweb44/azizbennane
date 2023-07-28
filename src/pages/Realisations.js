@@ -35,6 +35,15 @@ function Realisations() {
                         </div>
                     </div>                    
                 </div>
+                <div className="col-lg-4">
+                    <div className="card bg-transparent">
+                        <h4 className="py-1">Pricing</h4>
+                        <p className="para-light">Cet outil a pour objectif de simuler le placement d'un produit face à la concurrence.<br />- <u>Stack</u> : Symfony 4.3, Twig</p>
+                        <div className="my-3">
+                            <a className="btn float-end" target="_blank" rel="noopener noreferrer" href="https://pricing.aziz-bennane.fr">Visiter</a>
+                        </div>
+                    </div>
+                </div>
             </div> 
         </div> 
       </section> 
