@@ -13,8 +13,8 @@ function Technologies() {
                         <i className="fas fa-code fa-2x p-0"></i>
                         <h4 className="py-2">Backend</h4>
                         <ul className="para-light">
-                            <li>- <b>Frameworks</b> : Symfony 4+, Api Platform</li>
-                            <li>- <b>Architecture</b> : SOLID, DDD</li>
+                            <li>- <b>Frameworks</b> : Symfony 4+, Api Platform 3</li>
+                            <li>- <b>Architecture</b> : DDD, DTO, SOLID</li>
                             <li>- <b>CMS</b> : Drupal 8+, Pimcore</li>
                             <li>- <b>Planification</b> : Commandes, Cron</li>
                             <li>- <b>Automatisation</b> : ScriptRunner, Makefile</li>
@@ -26,9 +26,9 @@ function Technologies() {
                         <i className="fas fa-mobile-alt fa-2x p-0"></i>
                         <h4 className="py-2">Frontend</h4>
                         <ul className="para-light">
-                            <li>- <b>Frameworks</b> : React, Next, Vue 2</li>
+                            <li>- <b>Frameworks</b> : React, Nodejs, Express, Vue 2</li>
                             <li>- <b>Web</b> : HTML, CSS, Bootstrap</li>
-                            <li>- <b>State</b> : Redux toolkit, Vuex</li>
+                            <li>- <b>State</b> : Redux, Redux toolkit, Vuex</li>
                             <li>- <b>Mobile</b> : React Native, Expo</li>
                             <li>- <b>Build</b> : Webpack, Metro, APK</li>
                         </ul>
@@ -68,7 +68,7 @@ function Technologies() {
                             <li>- <b>Versionning</b> : Git</li>
                             <li>- <b>Dépôts</b> : Gitlab, Github, Bitbucket</li>
                             <li>- <b>CI/CD</b> : Gitlab, AWS CodePipeline</li>
-                            <li>- <b>AWS</b> : CodeCommit, PaaS, Lambda</li>
+                            <li>- <b>AWS</b> : CodeCommit, Lambda</li>
                             <li>- <b>Autre</b> : Docs techniques et fonctionnelles</li>
                         </ul>
                     </div>                    
